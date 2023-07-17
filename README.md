@@ -1,24 +1,25 @@
-# elizia-gpt2
-Des informations sur ElizIA
-ElizIA est une version française d'Eliza de Joseph Weizenbaum, un logiciel simulant un psychothérapeute rogérien. Voici quelques information sur l'histoire d'Eliza: L'entrée d'Eliza dans la Wikipédia française ou anglaise où vous trouvez aussi de nombreux liens vers des Elizas en anglais.
+Information about ElizIA
+ElizIA is a French version of Joseph Weizenbaum's Eliza, a software program simulating a Rogerian psychotherapist. Here's some information on the history of Eliza: Eliza's entry in the English or French Wikipedia, where you'll also find numerous links to Elizas in English.
 
-# elizia-gpt2 est un essai tout en gardant la mogique géniale : 
-ELIZA :
-ELIZA est un programme informatique développé par Joseph Weizenbaum entre 1964 et 1966.
-Il simule un psychothérapeute rogerien en reformulant les déclarations du patient en questions.
-Limites :
-ELIZA fonctionne par reconnaissance de formes et substitution de mots.
-Il ne peut fournir que des réponses générales basées sur des mots-clés.
-Les transformations sont plus simples en anglais, la langue dans laquelle ELIZA fonctionne.
-Déclaration de Weizenbaum :
-Weizenbaum souligne qu'ELIZA ne comprend pas vraiment.
-Il génère des réponses à partir de modèles préétablis enrichis de mots-clés trouvés dans les réponses des patients.
-ELIZA et les agents conversationnels :
-ELIZA ne fait que maintenir la conversation en engageant l'interlocuteur.
-Les agents conversationnels, contrairement à ELIZA, fournissent des réponses utiles en utilisant leurs bases de données.
-Impression sur les interlocuteurs :
-ELIZA était si convaincant que les gens sont devenus émotionnellement dépendants de leur relation avec lui.
-La tendance à donner un sens aux déclarations de l'ordinateur s'appelle l'effet ELIZA.
-Test de Turing :
-ELIZA démontre qu'il est possible de tromper certains humains avec des schémas logiques simples.
-La pertinence du test de Turing pour déterminer l'intelligence d'un ordinateur est encore débattue.
+# elizia-gpt2 is an essay while keeping the awesome mogic : 
+ELIZA:
+ELIZA is a computer program developed by Joseph Weizenbaum between 1964 and 1966.
+It simulates a Rogerian psychotherapist by reformulating the patient's statements into questions.
+Limitations :
+ELIZA works by pattern recognition and word substitution.
+It can only provide general answers based on key words.
+Transformations are simpler in English, the language in which ELIZA works.
+Weizenbaum's statement:
+Weizenbaum points out that ELIZA doesn't really understand.
+It generates responses from predefined templates enriched with keywords found in patients' responses.
+ELIZA and conversational agents:
+ELIZA simply maintains the conversation by engaging the interlocutor.
+Conversational agents, unlike ELIZA, provide useful answers using their databases.
+Impression on interlocutors:
+ELIZA was so convincing that people became emotionally dependent on their relationship with it.
+The tendency to make sense of computer statements is called the ELIZA effect.
+Turing test:
+ELIZA demonstrates that it is possible to fool some humans with simple logical schemes.
+The relevance of the Turing test for determining a computer's intelligence is still debated.
+
+Supervise and maintain the conversation by engaging the interlocutor with pre-trained gpt2.
